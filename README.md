@@ -24,6 +24,10 @@ So I choosed my friend website and make it more better.
 ### Fork on Replit
 Coming Soon!
 
+### Support us!
+You can support us by donating us or joining our discord server and invite our public bots.
+
+<a href="https://discord.gg/8fYUFxMtAq"><img src="https://discord.com/api/guilds/929321510789845052/widget.png?style=banner2"></a>
 ### Made by NotVexPro!#7107
 ![madeByVexPro](https://socialify.git.ci/Uknoi/ManLoJe-Portfolio/image?description=1&font=Inter&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
 
