@@ -21,8 +21,10 @@ So I choosed my friend website and make it more better.
 ### Developers:
 [NotVexPro!37107 - Plex Development](https://dsc.gg/manloje)
 
-### Fork on Replit
-Coming Soon!
+### Fork
+ **Deploy on Heroku**
+ 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Uknoi/6PG/tree/master)
 
 ### Support us!
 You can support us by donating us or joining our discord server and invite our public bots.
